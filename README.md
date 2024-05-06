@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic JS
 - 💞️ I’m looking to collaborate on Wikimedia projects, as I edit Wikipedia
 - 📫 How to reach me: prodraxis on Discord
-- 😄 Pronouns: They/Them/She
+- 😄 Pronouns: She/They
 - ⚡ Fun fact: I wanted to name myself ~delta after my Wiki username, but the character restrictions won't let me so I used Prodraxis.
 
 <!---
